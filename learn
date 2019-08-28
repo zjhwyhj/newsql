@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>在线简历</title>
+</head>
+<body>
+<h1>简历</h1>
+<li>姓名：
+<ul>张三</ul>
+</li>
+<li>联系方式：
+    <ul>手机号码：1234566789 </ul>
+    <ul>邮箱：zjhwyhj@163.com</ul>
+</li>
+<li>学历
+    <ul>本科</ul>
+    <ul>广东工业大学计科</ul>
+</li>
+<li>项目经验：
+<ul>无</ul>
+</li>
+</body>
+</html>
